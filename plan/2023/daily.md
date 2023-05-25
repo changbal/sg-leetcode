@@ -1,6 +1,6 @@
 # Daily 2023 🍅
 
-Solution Home: https://github.com/changbal/sg-leetcode/discussions/categories/daily-grind
+Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/categories/daily-grind)
 
 - 5/16/2023 [Spiral Matrix](https://github.com/changbal/sg-leetcode/discussions/7)
 - 5/17/2023 [Find All Duplicates in an Array](https://github.com/changbal/sg-leetcode/discussions/8)
