@@ -1,8 +1,8 @@
 # sg-leetcode
 
 ## Weekly
-
-### W1
+![Weekly 2023](plan/2023/weekly.md)
+![Weekly 2023](plan/2023/weekly.md)
 
 - 5/16/2023	[Contains Duplicate](https://github.com/changbal/sg-leetcode/discussions/3)	
 - 5/16/2023	[Valid Anagram]()	
