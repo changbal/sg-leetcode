@@ -1,6 +1,7 @@
 # Weekly 2023
 
 Problem Home: https://neetcode.io/practice
+
 Solution Home: https://github.com/changbal/sg-leetcode/discussions/categories/weekly-grind
 
 ## W1
