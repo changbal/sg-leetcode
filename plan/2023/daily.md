@@ -10,4 +10,4 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 5/23/2023 [Reverse Linked List](https://github.com/changbal/sg-leetcode/discussions/12)
 - 5/24/2023 [Remove Duplicates from Sorted List](https://github.com/changbal/sg-leetcode/discussions/17)
 - 5/25/2023 [Palindrome Linked List](https://github.com/changbal/sg-leetcode/discussions/18)
-- 5/26/2023 Merge Two Sorted Lists
+- 5/26/2023 [Merge Two Sorted Lists](https://github.com/changbal/sg-leetcode/discussions/21)
