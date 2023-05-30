@@ -21,5 +21,5 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 ## W3
 
 - 5/30/2023	[Best Time to Buy and Sell Stock](https://github.com/changbal/sg-leetcode/discussions/22)
-- 5/30/2023	Longest Substring Without Repeating Characters	
-- 5/30/2023	Minimum Window Substring
+- 5/30/2023	[Longest Substring Without Repeating Characters](https://github.com/changbal/sg-leetcode/discussions/29)	
+- 5/30/2023	[Longest Repeating Character Replacement](https://github.com/changbal/sg-leetcode/discussions/30)
