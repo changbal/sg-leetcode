@@ -12,3 +12,6 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 5/25/2023 [Palindrome Linked List](https://github.com/changbal/sg-leetcode/discussions/18)
 - 5/26/2023 [Merge Two Sorted Lists](https://github.com/changbal/sg-leetcode/discussions/21)
 - 5/30/2023 [Fibonacci Number](https://github.com/changbal/sg-leetcode/discussions/23)
+- 5/31/2023 [Add Two Numbers](https://github.com/changbal/sg-leetcode/discussions/24)
+- 6/1/2023 [Merge k Sorted Lists](https://github.com/changbal/sg-leetcode/discussions/25)
+- 6/2/2023 [Climbing Stairs](https://github.com/changbal/sg-leetcode/discussions/26)
