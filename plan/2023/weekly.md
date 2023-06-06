@@ -26,6 +26,6 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 
 ## W4
 
-- 6/6/2023 []()
-- 6/6/2023 []()
-- 6/6/2023 []()
+- 6/6/2023 [Valid Parentheses](https://github.com/changbal/sg-leetcode/discussions/32)
+- 6/6/2023 [Validate Binary Search Tree](https://github.com/changbal/sg-leetcode/discussions/34)
+- 6/6/2023 [Same Tree](https://github.com/changbal/sg-leetcode/discussions/33)
