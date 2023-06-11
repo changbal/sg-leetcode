@@ -17,3 +17,4 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/2/2023 [Climbing Stairs](https://github.com/changbal/sg-leetcode/discussions/26)
 - 6/5/2023 [Symmetric Tree](https://github.com/changbal/sg-leetcode/discussions/31)
 - 6/6/2023 [Recovery Binary Tree](https://github.com/changbal/sg-leetcode/discussions/35)
+- 6/9/2023 [Flatten Binary Tree](https://github.com/changbal/sg-leetcode/discussions/39)
