@@ -32,7 +32,7 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 
 ## W5
 
-- 6/13/2023 [Maximum Depth of Binary Tree](https://github.com/changbal/sg-leetcode/discussions/47)
-- 6/13/2023 [Subtree of Another Tree](https://github.com/changbal/sg-leetcode/discussions/48)
-- 6/13/2023 [Binary Tree Level Order Traversal](https://github.com/changbal/sg-leetcode/discussions/49)
+- 6/13/2023 [Maximum Depth of Binary Tree](https://github.com/changbal/sg-leetcode/discussions/42)
+- 6/13/2023 [Subtree of Another Tree](https://github.com/changbal/sg-leetcode/discussions/41)
+- 6/13/2023 [Binary Tree Level Order Traversal](https://github.com/changbal/sg-leetcode/discussions/40)
 
