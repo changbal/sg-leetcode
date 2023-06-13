@@ -29,3 +29,10 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/6/2023 [Valid Parentheses](https://github.com/changbal/sg-leetcode/discussions/32)
 - 6/6/2023 [Validate Binary Search Tree](https://github.com/changbal/sg-leetcode/discussions/34)
 - 6/6/2023 [Same Tree](https://github.com/changbal/sg-leetcode/discussions/33)
+
+## W5
+
+- 6/13/2023 [Maximum Depth of Binary Tree](https://github.com/changbal/sg-leetcode/discussions/47)
+- 6/13/2023 [Subtree of Another Tree](https://github.com/changbal/sg-leetcode/discussions/48)
+- 6/13/2023 [Binary Tree Level Order Traversal](https://github.com/changbal/sg-leetcode/discussions/49)
+
