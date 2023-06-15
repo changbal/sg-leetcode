@@ -1,6 +1,6 @@
 # Daily 2023 🍅
 
-Problem List : https://www.notion.so/84ab2580ab8148058cea4fde1b5501b8?v=00d0a8d9a548459a8348e604a5f28f95
+Problem List : [Haram's Notion](https://www.notion.so/84ab2580ab8148058cea4fde1b5501b8?v=00d0a8d9a548459a8348e604a5f28f95)
 
 Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/categories/daily-grind)
 
