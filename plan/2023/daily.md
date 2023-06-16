@@ -35,3 +35,4 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/13/2023 [Roman To Integer](https://github.com/changbal/sg-leetcode/discussions/44)
 - 6/14/2023 [Binary Tree Inorder Traversal](https://github.com/changbal/sg-leetcode/discussions/45)
 - 6/15/2023 [Number of Islands](https://github.com/changbal/sg-leetcode/discussions/46)
+- 6/16/2023 [Subtree of Another Tree](https://github.com/changbal/sg-leetcode/discussions/50)
