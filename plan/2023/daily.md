@@ -38,4 +38,4 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/16/2023 [Subtree of Another Tree](https://github.com/changbal/sg-leetcode/discussions/50)
 
 ## W6
-- 6/19/2023 [Logger Rate Limiter]()
+- 6/19/2023 [Logger Rate Limiter](https://github.com/changbal/sg-leetcode/discussions/51)
