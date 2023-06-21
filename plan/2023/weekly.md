@@ -36,3 +36,8 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/13/2023 [Subtree of Another Tree](https://github.com/changbal/sg-leetcode/discussions/41)
 - 6/13/2023 [Binary Tree Level Order Traversal](https://github.com/changbal/sg-leetcode/discussions/40)
 
+## W6
+
+- 6/20/2023 [Koko Eating Bananas](https://github.com/changbal/sg-leetcode/discussions/53)
+- 6/20/2023 [Find Minimum in Rotated Sorted Array](https://github.com/changbal/sg-leetcode/discussions/54)
+
