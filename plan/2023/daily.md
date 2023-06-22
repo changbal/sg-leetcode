@@ -41,4 +41,4 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/19/2023 [Logger Rate Limiter](https://github.com/changbal/sg-leetcode/discussions/51)
 - 6/20/2023 [Transpose Matrix](https://github.com/changbal/sg-leetcode/discussions/52)
 - 6/21/2023 [Sort Characters By Frequency](https://github.com/changbal/sg-leetcode/discussions/55)
-- 6/22/2023 [LRU Cache]()
+- 6/22/2023 [LRU Cache](https://github.com/changbal/sg-leetcode/discussions/56)
