@@ -42,3 +42,11 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/20/2023 [Transpose Matrix](https://github.com/changbal/sg-leetcode/discussions/52)
 - 6/21/2023 [Sort Characters By Frequency](https://github.com/changbal/sg-leetcode/discussions/55)
 - 6/22/2023 [LRU Cache](https://github.com/changbal/sg-leetcode/discussions/56)
+- 6/23/2023 [Top K Frequent Elements](https://github.com/changbal/sg-leetcode/discussions/57)
+
+## W7
+- 6/26/2023 [Kth Largest Element in an Array](https://github.com/changbal/sg-leetcode/discussions/58)
+
+
+
+
