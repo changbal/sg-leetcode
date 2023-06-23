@@ -41,3 +41,8 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/20/2023 [Koko Eating Bananas](https://github.com/changbal/sg-leetcode/discussions/53)
 - 6/20/2023 [Find Minimum in Rotated Sorted Array](https://github.com/changbal/sg-leetcode/discussions/54)
 
+## W7
+
+- 6/27/2023 [Kth Largest Element in a Stream](https://github.com/changbal/sg-leetcode/discussions/59)
+- 6/27/2023 [Last Stone Weight](https://github.com/changbal/sg-leetcode/discussions/60)
+- 6/27/2023 [K Closest Points to Origin](https://github.com/changbal/sg-leetcode/discussions/61)
