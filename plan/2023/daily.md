@@ -47,7 +47,7 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 ## W7
 - 6/26/2023 [Kth Largest Element in an Array](https://github.com/changbal/sg-leetcode/discussions/58)
 - 6/27/2023 [Task Scheduler](https://github.com/changbal/sg-leetcode/discussions/63)
-- 6/28/2023 [Maximum Population Year](https://github.com/changbal/sg-leetcode/discussions/62)
+- 6/28/2023 [Maximum Population Year](https://github.com/changbal/sg-leetcode/discussions/62) - check out [Line Sweep Algorithms](https://github.com/changbal/sg-leetcode/blob/main/collections/linesweep.md)
 
 
 
