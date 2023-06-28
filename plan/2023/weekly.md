@@ -46,3 +46,9 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/27/2023 [Kth Largest Element in a Stream](https://github.com/changbal/sg-leetcode/discussions/59)
 - 6/27/2023 [Last Stone Weight](https://github.com/changbal/sg-leetcode/discussions/60)
 - 6/27/2023 [K Closest Points to Origin](https://github.com/changbal/sg-leetcode/discussions/61)
+
+## W8
+
+- 7/4/2023 [Combination Sum](https://github.com/changbal/sg-leetcode/discussions/64)
+- 7/4/2023 [Word Search](https://github.com/changbal/sg-leetcode/discussions/65)
+
