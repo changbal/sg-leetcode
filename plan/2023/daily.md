@@ -51,5 +51,5 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 6/30/2023 [Number of Days Between Two Dates](https://github.com/changbal/sg-leetcode/discussions/70)
 
 ## W8
-- 7/3/2023 [Product of Array Except Self](https://github.com/changbal/sg-leetcode/discussions/71)
+- 7/3/2023 [238. Product of Array Except Self](https://github.com/changbal/sg-leetcode/discussions/71)
 - 7/7/2023 [739. Daily Temperatures](https://github.com/changbal/sg-leetcode/discussions/72)
