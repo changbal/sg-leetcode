@@ -52,3 +52,4 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 
 ## W8
 - 7/3/2023 [Product of Array Except Self](https://github.com/changbal/sg-leetcode/discussions/71)
+- 7/7/2023 [739. Daily Temperatures](https://github.com/changbal/sg-leetcode/discussions/72)
