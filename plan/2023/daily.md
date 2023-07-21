@@ -58,8 +58,8 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 - 7/10/2023 ~ 7/14/2023
 
 ## W10
-- 7/17/2023 [122. Best Time to Buy and Sell Stock II]()
+- 7/17/2023 [122. Best Time to Buy and Sell Stock II](https://github.com/changbal/sg-leetcode/discussions/86)
 - 7/18/2023 [617. Merge Two Binary Trees]()
-- 7/19/2023 [123. Best Time to Buy and Sell Stock III]()
-- 7/20/2023 [849. Maximize Distance to Closest Person]()
+- 7/19/2023 [123. Best Time to Buy and Sell Stock III](https://github.com/changbal/sg-leetcode/discussions/85)
+- 7/20/2023 [849. Maximize Distance to Closest Person](https://github.com/changbal/sg-leetcode/discussions/84)
 - 7/21/2023 [855. Exam Room](https://github.com/changbal/sg-leetcode/discussions/83)
