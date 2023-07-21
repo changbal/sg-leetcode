@@ -53,3 +53,13 @@ Solution Home: [Discussion](https://github.com/changbal/sg-leetcode/discussions/
 ## W8
 - 7/3/2023 [238. Product of Array Except Self](https://github.com/changbal/sg-leetcode/discussions/71)
 - 7/7/2023 [739. Daily Temperatures](https://github.com/changbal/sg-leetcode/discussions/72)
+
+## W9
+- 7/10/2023 ~ 7/14/2023
+
+## W10
+- 7/17/2023 [122. Best Time to Buy and Sell Stock II]()
+- 7/18/2023 [617. Merge Two Binary Trees]()
+- 7/19/2023 [123. Best Time to Buy and Sell Stock III]()
+- 7/20/2023 [849. Maximize Distance to Closest Person]()
+- 7/21/2023 [855. Exam Room](https://github.com/changbal/sg-leetcode/discussions/83)
